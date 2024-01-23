@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mahek
-- 🌱 I’m node js ddeveloper
+- 🌱 I’m node js developer
 
 <!---
 mahek747/mahek747 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
